@@ -110,7 +110,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": true
           },
           "logo": {
@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; OKTOBERFEST</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-7\">ФОТО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-9\">ПРОГРАММА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-8\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -509,8 +509,8 @@
               "size": 0
             }
           },
-          "title": "Яркая, компактная и проверенная временем программа:",
-          "text": "<b>2 - 2,5 часа.</b><br><br><b>1 блок: </b>знакомство с гостями, викторина с тематикой Октоберфеста<br>Танцы (DJ или кавер-группа не входят &nbsp;в стоимость программы)<br><br><b>2 блок:</b> одиночные конкурсы от 2 до 5 человек, конкурсы с экранами/проектором (при наличии оборудования на площдке), импровизация и общение с гостями<br>Танцы<br><br><b>3 блок:</b> командные конкурсы (эстафеты, танцевальные, с использованием мольбертов и красок, семейные - в случае наличия гостей с детьми)&nbsp;<br>Танцы<br><br><b>Нонстоп:</b> фотографирование с гостями, каждые полчаса - розыгрыш призов (кружка пива) &nbsp;за снимок, опубликованный в инстаграме с нужной локацией и хештэгами и набравший наибольшее количество лайков.&nbsp;<br><br><b>Финал:</b> выбор короля и королевы Откоберфеста, награждение, общее фото с гостями.&nbsp;<br>Призы не входят в стоимость программы.<br><br><b>Стоимость программы: </b>25 000 руб.&nbsp;<br><br>Возможен более масштабный вариант программы длительностью 4 часа.&nbsp;<br><br>",
+          "title": "Яркая, динамичная и проверенная временем программа:",
+          "text": "<b>2 - 2,5 часа.</b><br><br><b>1 блок: </b>знакомство с гостями, викторина с тематикой Октоберфеста<br>Танцы (DJ или кавер-группа не входят &nbsp;в стоимость программы)<br><br><b>2 блок:</b> одиночные конкурсы от 2 до 5 человек, конкурсы с экранами/проектором (при наличии оборудования на площдке), импровизация и общение с гостями<br>Танцы<br><br><b>3 блок:</b> командные конкурсы (эстафеты, танцевальные, с использованием мольбертов и красок, семейные - в случае наличия гостей с детьми)&nbsp;<br>Танцы<br><br><b>Нонстоп:</b> фотографирование с гостями, каждые полчаса - розыгрыш призов (кружка пива) &nbsp;за снимок, опубликованный в инстаграме с нужной локацией и хештэгами и набравший наибольшее количество лайков.&nbsp;<br><br><b>Для гурманов:</b> если в вашем ресторане или баре есть особые сорта пива, любимые вашими гостями, то среди знатоко можно провести зрелищный конкурс по определению сорта пива вслепую.&nbsp;<br><br><b>Финал:</b> выбор короля и королевы Откоберфеста, награждение, общее фото с гостями.&nbsp;<br>Призы не входят в стоимость программы.<br><br><b>Стоимость программы: </b>25 000 руб.&nbsp;<br><br>Возможен более масштабный вариант программы длительностью 4 часа.&nbsp;<br>Возможны эксклюзивные фото- и видеосессии для афиш, анонсов и рекламных роликов.&nbsp;<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "H3": {
